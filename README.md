@@ -27,5 +27,5 @@ This repository contains my completed practical assignments for the CSU1658 cour
 
 | Assignment | Key Topics Covered | Link to Folder |
 | :--- | :--- | :--- |
-| **Practical Assignment 1** | Central Tendency, Z-Scores, Data Binning, NumPy. | [View Assignment](Practical assignments/Assignment_1.ipynb) |
+| **Practical Assignment 1** | Central Tendency, Z-Scores, Data Binning, NumPy. | [View Assignment](https://github.com/JoyBoy2108/Statistical-foundations-of-data-science-practicals/blob/main/Practical%20assignments/Assignment_1.ipynb) |
 | **...** | *(More assignments will be added as they are completed)* | |
